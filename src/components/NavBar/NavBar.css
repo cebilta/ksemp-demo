@@ -1,0 +1,14 @@
+.activebtn {
+    background-color: green;
+    color: white;
+    border-radius: 100px;
+}
+
+.navbar {
+    background-color: rgb(16, 15, 107);
+}
+
+.navbar-brand {
+    font-weight: 900;
+    align-items: flex-start;
+}

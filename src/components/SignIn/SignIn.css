@@ -1,0 +1,10 @@
+.signin-box {
+    border: 1px solid #8d8686;
+    margin: auto;
+    padding: 20px;
+    min-width:fit-content;
+    min-height: fit-content;
+    width: 40%;
+    background-color: rgb(16, 15, 107);
+    color: aliceblue;
+}
